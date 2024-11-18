@@ -1028,3 +1028,4 @@ Szerokie spektrum zainteresowań, umiejętności analityczne i doświadczenie w 
 </script>
 
 
++ [edit](https://github.com/idea2030/meshcluster/edit/main/README.md)
