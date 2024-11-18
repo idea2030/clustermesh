@@ -1,10 +1,38 @@
 ![mesh.svg](images/mesh.svg)
 
-# MeshCluster
+## MeshCluster
 
 Energy + Computing + Communication as a Mesh Cluster
 
+The diagram emphasizes how these three critical components work together in a decentralized, resilient network
+
+### 1. Energy Nodes (Gold circles):
+- Represent power sources/storage (could be solar, battery, grid connections)
+- Distributed at key points in the mesh
+- Labeled E1 through E4
+
+### 2. Computing Nodes (Blue rectangles):
+- Central processing units
+- Distributed computing resources
+- Labeled C1 and C2
+
+### 3. Communication Links (Dashed lines):
+- Connect all nodes in a mesh topology
+- Enable bidirectional flow of:
+   - Energy distribution
+   - Data transmission
+   - Resource coordination
+
+### 4. Mesh Architecture Features:
+- Redundant pathways for resilience
+- Distributed processing capability
+- Load balancing potential
+- Fault tolerance through multiple connections
+
+
+## PL
 MESH CLUSTER to nie tylko technologia - to strategiczna przewaga w świecie rosnącej niepewności i dynamicznych zmian.
+
 Wdrożenie systemu pozwala na:
 
 1. Natychmiastową reakcję w sytuacjach kryzysowych
