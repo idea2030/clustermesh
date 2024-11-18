@@ -1,5 +1,8 @@
+![mesh.svg](images/mesh.svg)
+
 # MeshCluster
-energy + computing + communication
+
+Energy + Computing + Communication as a Mesh Cluster
 
 MESH CLUSTER to nie tylko technologia - to strategiczna przewaga w świecie rosnącej niepewności i dynamicznych zmian.
 Wdrożenie systemu pozwala na:
@@ -9,6 +12,16 @@ Wdrożenie systemu pozwala na:
 3. Rozwój nowych możliwości operacyjnych
 4. Znaczącą przewagę konkurencyjną
 
+```mermaid
+graph TD
+    A[Solar Array] --> B[MESH CLUSTER Node]
+    B --> C[Local Energy Storage]
+    B --> D[Edge Computing]
+    B --> E[4G/5G Coverage]
+    D --> F[Local Services]
+    E --> G[Internet Access]
+    B --> H[Community WiFi]
+```
 
 # Specyfikacja techniczna: EdgeResourceHub
 
@@ -188,6 +201,7 @@ class ResourceManager:
 
 
 ---
+![meshcluster.png](images/meshcluster.png)
 
 
 # MeshCluster: A Novel Approach to Distributed Resource Management in Local Energy and Computing Networks

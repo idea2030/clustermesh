@@ -1,5 +1,5 @@
 title: "MeshCluster, https://idea2030.github.io/meshcluster/"
-description: "MeshCluster a novel distributed system architecture for managing local energy and computing resources"
+description: "MeshCluster a novel distributed system architecture for managing local energy and computing resources, MESH CLUSTER: Adaptive Infrastructure for Critical Situations"
 mermaid:
   src: "mermaid.js"
 plugins:
