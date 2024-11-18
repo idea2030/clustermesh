@@ -962,7 +962,10 @@ graph TD
 - Nowe miejsca pracy
 - Zrównoważony rozwój
 
-## 8. WEZWANIE DO DZIAŁANIA
+
+
+
+## Oferta
 
 MESH CLUSTER to nie tylko technologia - to strategiczna przewaga w świecie rosnącej niepewności i dynamicznych zmian. Wdrożenie systemu pozwala na:
 
@@ -971,13 +974,10 @@ MESH CLUSTER to nie tylko technologia - to strategiczna przewaga w świecie rosn
 3. Rozwój nowych możliwości operacyjnych
 4. Znaczącą przewagę konkurencyjną
 
+
 Czy Twoja organizacja jest gotowa na przyszłość? 
 
 Skontaktuj się z nami, aby dowiedzieć się więcej o możliwościach wdrożenia MESH CLUSTER w Twoim kontekście operacyjnym.
-
-Tom Sapletta
-Softreck
-
 
 
 
