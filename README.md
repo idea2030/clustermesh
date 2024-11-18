@@ -1,6 +1,13 @@
 # MeshCluster
 energy + computing + communication
 
+MESH CLUSTER to nie tylko technologia - to strategiczna przewaga w świecie rosnącej niepewności i dynamicznych zmian.
+Wdrożenie systemu pozwala na:
+
+1. Natychmiastową reakcję w sytuacjach kryzysowych
+2. Budowę odpornej infrastruktury
+3. Rozwój nowych możliwości operacyjnych
+4. Znaczącą przewagę konkurencyjną
 
 
 # Specyfikacja techniczna: EdgeResourceHub
@@ -967,7 +974,8 @@ graph TD
 
 ## Oferta
 
-MESH CLUSTER to nie tylko technologia - to strategiczna przewaga w świecie rosnącej niepewności i dynamicznych zmian. Wdrożenie systemu pozwala na:
+MESH CLUSTER to nie tylko technologia - to strategiczna przewaga w świecie rosnącej niepewności i dynamicznych zmian. 
+Wdrożenie systemu pozwala na:
 
 1. Natychmiastową reakcję w sytuacjach kryzysowych
 2. Budowę odpornej infrastruktury
