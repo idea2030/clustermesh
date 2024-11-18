@@ -1,8 +1,16 @@
 ![mesh.svg](images/mesh.svg)
 
-## MeshCluster
+## MeshCluster 
++ Energy & Computing & Communication as a Mesh Cluster
 
-Energy + Computing + Communication as a Mesh Cluster
+MESH CLUSTER is a revolutionary approach to creating a dynamic infrastructure, combining:
+
++ Wireless energy transfer (Beam Forming)
++ Edge Computing on energy-efficient ARM processors
++ Distributed 4G/5G communication networks
++ Adaptive resource management
+
+## Diagram
 
 The diagram emphasizes how these three critical components work together in a decentralized, resilient network
 
