@@ -978,3 +978,53 @@ Skontaktuj się z nami, aby dowiedzieć się więcej o możliwościach wdrożeni
 Tom Sapletta
 Softreck
 
+
+
+
+
+![obraz](https://github.com/tom-sapletta-com/rynek-pracy-2030-eu/assets/5669657/24abdad9-5aff-4834-95a0-d7215cc6e0bc)
+
+## Tom Sapletta
+
+Na co dzień DevOps i ewangelista hipermodularyzacji.
+Łączy doświadczenie w programowaniu i research-u poprzez wdrażanie nowatorskich rozwiązań.
+Szerokie spektrum zainteresowań, umiejętności analityczne i doświadczenie w branży owocują pozatechnicznymi treściami jak powyższy raport.
+
++ [Tom Sapletta, Linkedin](https://www.linkedin.com/in/tom-sapletta-com)
++ [Tom Sapletta, Github](https://github.com/tom-sapletta-com)
++ [teleoperator-info/2024 · Discussion #1](https://github.com/teleoperator-info/2024/discussions/1)
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=teleoperator-info/2024&type=Date)](https://star-history.com/#teleoperator-info/2024&Date)
+
+
+## [Contributions](http://contribution.softreck.dev)
+
+[CONTRIBUTION](CONTRIBUTION.md) are always welcome:
++ did you found an [Issue or Mistake](https://github.com/teleoperator-info/2024/issues/new)?
++ do you want to [improve](https://github.com/teleoperator-info/2024/edit/main/README.md) the article?
++ are you interested do join another [git projects](https://github.com/teleoperator-info/)?
++ have something to contribute or discuss? [Open a pull request](https://github.com/teleoperator-info/2024/pulls) or [create an issue](https://github.com/teleoperator-info/2024/issues).
+
+---
+
+
+
+<script type="module">    
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  //import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.8.0/dist/mermaid.min.js';
+  mermaid.initialize({
+    startOnReady:true,
+    theme: 'forest',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+  });
+  mermaid.init(undefined, '.language-mermaid');
+</script>
+
+

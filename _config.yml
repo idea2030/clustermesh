@@ -1,0 +1,11 @@
+title: "Detekcja obiektów w systemach wizyjnych, raport: 2024.teleoperator.info"
+description: "Jak zmieniał się rynek systemów wizyjnych w zastosowaniach przemysłowych w ostatniej dekadzie? Jak zmieni się rynek do roku 2030?"
+mermaid:
+  src: "mermaid.js"
+plugins:
+  - "jekyll-github-metadata"  
+  - "jekyll-readme-index"
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
