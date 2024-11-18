@@ -992,22 +992,22 @@ Szerokie spektrum zainteresowań, umiejętności analityczne i doświadczenie w 
 
 + [Tom Sapletta, Linkedin](https://www.linkedin.com/in/tom-sapletta-com)
 + [Tom Sapletta, Github](https://github.com/tom-sapletta-com)
-+ [teleoperator-info/2024 · Discussion #1](https://github.com/teleoperator-info/2024/discussions/1)
++ [idea2030/meshcluster · Discussion #1](https://github.com/idea2030/meshcluster/discussions/1)
 
 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=teleoperator-info/2024&type=Date)](https://star-history.com/#teleoperator-info/2024&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=idea2030/meshcluster&type=Date)](https://star-history.com/#idea2030/meshcluster&Date)
 
 
 ## [Contributions](http://contribution.softreck.dev)
 
 [CONTRIBUTION](CONTRIBUTION.md) are always welcome:
-+ did you found an [Issue or Mistake](https://github.com/teleoperator-info/2024/issues/new)?
-+ do you want to [improve](https://github.com/teleoperator-info/2024/edit/main/README.md) the article?
++ did you found an [Issue or Mistake](https://github.com/idea2030/meshcluster/issues/new)?
++ do you want to [improve](https://github.com/idea2030/meshcluster/edit/main/README.md) the article?
 + are you interested do join another [git projects](https://github.com/teleoperator-info/)?
-+ have something to contribute or discuss? [Open a pull request](https://github.com/teleoperator-info/2024/pulls) or [create an issue](https://github.com/teleoperator-info/2024/issues).
++ have something to contribute or discuss? [Open a pull request](https://github.com/idea2030/meshcluster/pulls) or [create an issue](https://github.com/idea2030/meshcluster/issues).
 
 ---
 
